@@ -12,11 +12,13 @@ Some Features:
 ### Setup .env file
 
 ```js
-PORT=...
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
+PORT=
+MONGO_DB_URI=
+JWT_SECRET=
+NODE_ENV=
 ```
+
+`PS: don't add NODE_ENV in production environment variable`
 
 ### Build the app
 
